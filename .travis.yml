@@ -21,3 +21,4 @@ after_success:
   - docker push melon9751/docker-frontend
   - docker push melon9751/docker-backend
   - docker push melon9751/docker-nginx
+ 
